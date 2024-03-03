@@ -1,1 +1,1 @@
-HiEdit is a small Flask applicarion where we can convert image to another format .
+HiEdit is a small Flask application where we can convert image to another format .
